@@ -1,5 +1,8 @@
 # Auditor-AI
-# Cardano AI Auditor Agent
+# Cardano AI Auditor
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://auditor-ai-six.vercel.app/)
+
 
 🚀 **A fully automated, privacy-aware smart contract auditor for Cardano, built with Midnight MCL and AI.**
 
